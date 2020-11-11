@@ -1,0 +1,12 @@
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\bin\Debug\netcoreapp3.1\Bank_Encapsulation.exe
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\bin\Debug\netcoreapp3.1\Bank_Encapsulation.deps.json
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\bin\Debug\netcoreapp3.1\Bank_Encapsulation.runtimeconfig.json
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\bin\Debug\netcoreapp3.1\Bank_Encapsulation.runtimeconfig.dev.json
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\bin\Debug\netcoreapp3.1\Bank_Encapsulation.dll
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\bin\Debug\netcoreapp3.1\Bank_Encapsulation.pdb
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\obj\Debug\netcoreapp3.1\Bank_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\obj\Debug\netcoreapp3.1\Bank_Encapsulation.AssemblyInfo.cs
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\obj\Debug\netcoreapp3.1\Bank_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\obj\Debug\netcoreapp3.1\Bank_Encapsulation.dll
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\obj\Debug\netcoreapp3.1\Bank_Encapsulation.pdb
+C:\Users\Cameron Kellett\Skoo\repos\Bank_Encapsulation\Bank_Encapsulation\obj\Debug\netcoreapp3.1\Bank_Encapsulation.genruntimeconfig.cache
